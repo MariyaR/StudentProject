@@ -1,0 +1,32 @@
+1. IP - Internet Protocol IPv4 194.34.45.5   IPv6
+
+2.1. TCP - Transmission Control Protocol
+2.2. UDP - UserDatagram Protocol
+
+3.1. HTTP, FTP, SMTP
+3.2. SNMP, Video/Audio
+
+
+Socket = IP-address + Port
+ServerSocket
+
+Raw Socket
+
+
+1. File
+2. Network
+3. Memory
+
+
+1. DOM
+2. JAXB
+
+1. SAX - Simple API for XML
+2. StAX - Stream API for XML
+
+<person>
+    <surName>Иванова</surName>
+    <givenName>Алла</givenName>
+    <patronymic>Владимировна</patronymic>
+    <dateOfBirth>18.10.1979</dateOfBirth>
+</person>
